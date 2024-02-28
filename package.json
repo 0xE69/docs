@@ -30,7 +30,7 @@
         "commit": "lint-staged"
     },
     "dependencies": {
-        "@crowdin/cli": "3",
+        "@crowdin/cli": "3.18.0",
         "@docusaurus/core": "^3.0.0",
         "@docusaurus/plugin-content-docs": "^3.1.1",
         "@docusaurus/preset-classic": "^3.0.0",
