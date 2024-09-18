@@ -47,7 +47,7 @@
         "react-dom": "^18.2.0",
         "react-instantsearch-hooks-web": "^6.40.1",
         "react-transition-group": "^4.4.5",
-        "sass": "^1.49.0",
+        "sass": "^1.79.0",
         "url-loader": "^4.1.1",
         "webpack": "^5.90.1"
     },
